@@ -1,0 +1,7 @@
+{
+  "name": "DIAL DEFENDER",
+  "description": "A digital immune system for human voices that detects AI-generated deepfakes using Voice DNA technology and forensic audio analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
