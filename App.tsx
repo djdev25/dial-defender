@@ -1,6 +1,6 @@
 
 import React, { useState, useCallback } from 'react';
-import Header from './components/Header';
+import Header from './components/header';
 import VoiceUploader from './components/VoiceUploader';
 import AnalysisView from './components/AnalysisView';
 import HowItWorks from './components/HowItWorks';
